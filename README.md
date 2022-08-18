@@ -1,6 +1,6 @@
 <h3>Hi! I'm Francesco </h3>
 🎓 Graduated in Computer Science and Digital Communication at the University of Bari "Aldo Moro". <br/>
-👨‍💻 Junior Software Developer with a focus on development with C#/.NET.
+👨‍💻 Software Developer with a focus on development with C#/.NET.
 
 
 <!--
