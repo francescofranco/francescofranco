@@ -5,7 +5,7 @@
   :man_student: Graduated in Computer Science and Digital Communication at the University of Bari "Aldo Moro". <br/>
 </p>
 
-<h3 align="left">	:toolbox: Languages and Tools:</h3>
+<!--<h3 align="left">	:toolbox: Languages and Tools:</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/> </a>
@@ -21,7 +21,7 @@
 <p align="left">
   <a href="https://www.udemy.com/course/plsql-beginner-to-advanced-become-a-perfect-plsql-developer/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" /> The Complete PL/SQL Bootcamp : "Beginner to Advanced PL/SQL"</a>
 </p> 
-  
+  -->
 
 <!--
 **francescofranco/francescofranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
