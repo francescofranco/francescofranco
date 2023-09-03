@@ -1,3 +1,6 @@
+
+![Viola Monotono Minimalista Alluvione Unità di Crisi Banner LinkedIn (3)](https://github.com/francescofranco/francescofranco/assets/92984259/3d8f4879-2402-47d7-9999-6b0ce8c67d89)
+
 <p align="center">
   <strong>	:man_technologist: Software Developer</strong>
 </p>
