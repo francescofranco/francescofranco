@@ -1,5 +1,6 @@
 
 <p align="center">
+  👨‍💻 Software Developer
   :man_student: Graduated in Computer Science and Digital Communication at the University of Bari "Aldo Moro". <br/>
 </p>
 
